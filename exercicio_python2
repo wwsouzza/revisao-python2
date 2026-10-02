@@ -4,3 +4,4 @@ contador = 0
 while contador < 3:
  print("While:", contador)
  contador += 1
+teste
